@@ -11,31 +11,87 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Qv9p77hBf48DutDzvr/giphy.gif">
-</p>
 
-# TracyRobot
-Me On Telegram [✨TRACY✨](https://t.me/TracyRoBot)
-This is just a demo bot.. Don't try to add to your group.. Create your own bot 
-## How To Host
-The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/war-legend/TracyRoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
+
+Enterprise](https://telegra.ph/file/727f010c55cd4ae088b28.jpg)
+
+# Sandra bot
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/theshubhamgundu/miss_sandra)</br>
+
+![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
+
+![Issues](https://img.shields.io/github/issues/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)
+
+![Forks](https://img.shields.io/github/forks/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)
+
+![Stars](https://img.shields.io/github/stars/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)
+
+![LICENSE](https://img.shields.io/github/license/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)
+
+![Contributors](https://img.shields.io/github/contributors/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)
+
+![Repository Size](https://img.shields.io/github/repo-size/theshubhamgundu/miss_sandra?style=for-the-badge&logo=appveyor)</br>
+
+[![Join Support Chat!](https://img.shields.io/badge/Support%20Chat-Aketps//t.me/blackstormfederation)
+
+A modular telegram Python bot running on python3 with an sqlalchemy database.
+
+Can be found on telegram as [SANDRA](https://t.me/miss_sandrabot).
+
+The Support group can be reached out to at [MISS SANDRA Support Chat](https://t.me/blackstormfedeartion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+
+## Setting up the bot (Read this before trying to use!):
+
+# How to setup
+
+- git clone https://github.com/theshubhamgundu/miss_sandra
+
+- cd EnterpriseALRobot
+
+- cp sample_config.ini config.ini
+
+- *Fill in all the vars*
+
+- pip3 install -U -r requirements.txt
+
+- *And finally* python3 -m tg_bot
+
+*Enjoy!*
+
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Sandra support chat](https://t.me/blackstormfederation)  
+
+## Credits
+
+🔸[theshubhamgundu](https://github.com/theshubhamgundu)
+
+🔸[PaulSonOfLars](https://github.com/PaulSonOfLars)
+
+🔸[AkenoXProject](https://github.com/AkenoXProject)
+
+-------------------------------------------------------------------------------------
+
+
+
  
-## CREDITS
-▪️[itsmelegend](https://github.com/war-legend)
 
-▪️ [PaulSonOfLars](https://github.com/PaulSonOfLars/tgbot)
-▪️ [Saitama](https://github.com/AnimeKaizoku)
-▪️ [Loli-Killer](https://github.com/Loli-Killer)
-▪️ [RealAkito](https://github.com/RealAkito)
-▪️ [MrYacha](https://github.com/MrYacha)
-▪️ [Shreyansh](https://github.com/okay-retard)
-▪️ [Ayush](https://github.com/MissJuliaRobot/MissJuliaRobot)
-▪️ [Inuka Asith](https://github.com/inukaasith)
-▪️ [Legendx](https://github.com/LEGENDXOP)
-▪️ [Amarnath c](https://github.com/Amarnathcdj)
-▪️ [Thehamkercat](https://github.com/thehamkercat)
-▪️ [DragSama](https://github.com/DragSama)
+
+
+
+
+
+
+
+
+
+
+m
+
+
 ▪️ [Shrimadhav](https://github.com/SpEcHiDe)
-▪️ [Ayra Hikari](https://github.com/AyraHikari)
+
